@@ -59,9 +59,9 @@ From **Flutter apps** and **React dashboards** to **Supabase backends** and **AI
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syntax-error002&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="130"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syntax-error002&theme=transparent&hide_border=false" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-error002&layout=compact&theme=transparent" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Syntax-error002&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syntax-error002&theme=transparent&hide_border=false" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-error002&layout=compact&theme=transparent" height="200"/>
 </div>
 
 ---
