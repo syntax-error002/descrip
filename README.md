@@ -1,61 +1,71 @@
-# Hi, I'm Shaswat 👋  
+# 👋 Hey, I'm Shaswat  
 
-### Full Stack Developer | Founder @Studify | Hackathon Finalist  
-
----
-
-## 🚀 About Me  
-I'm a developer who enjoys turning ideas into real, working products — from AI chatbots and SQL editors to apps like **Studify** and **CodeMaster**.  
-I focus on crafting clean user experiences and meaningful features that actually solve problems.  
-
-- Skilled in **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, MySQL**  
-- Currently exploring **AI integration** and **Next.js**  
-- Built **10+ real-world projects** and multiple freelance apps before turning 19  
-- Passionate about **tech that educates, simplifies, and connects**  
+### Flutter & React Developer | Backend Curious | Builder of Things That Work  
 
 ---
 
-## 🛠️ Projects  
+## 💫 About Me  
+I build ideas fast — with code, no-code, or whatever bridges the gap between idea and launch.  
+From **Flutter apps** and **React dashboards** to **Supabase backends** and **AI integrations**, I focus on making things that are genuinely useful.  
+
+- ⚙️ Skilled in **Flutter, Dart, React, JavaScript, SQL, Supabase, Firebase**  
+- 💡 Experienced with **auth systems**, **real-time databases**, and **AI-driven features**  
+- ⚡ Explore **Bubble.io** and **low/no-code tools** for quick MVPs  
+- 🌱 Currently learning **Next.js** and **clean architecture in Flutter**  
+- 🎯 Goal: Build scalable, human-centered tech that stands out  
+
+---
+
+## 🚀 Featured Projects  
 
 | Project | Description | Stack |
 |----------|--------------|-------|
-| **Studify** | Edtech platform for 24/7 tutor access, AI doubt solver, gamified progress | React, Node.js, MongoDB, Razorpay API |
-| **CodeMaster** | Gamified coding quiz app with leaderboard and XP system | JavaScript, Firebase |
-| **AI Chatbot** | Context-aware chatbot for student learning assistance | Python, Flask, OpenAI API |
-| **SQL Editor** | Online SQL compiler for executing and testing queries | HTML, CSS, JS, SQL.js |
+| **Studify** | Full-stack **edtech app** offering 24/7 tutor access, AI doubt solver, and gamified progress tracking. Integrated **GenKit**, **Agora SDK** for live sessions, **Google Teachable Machine** for ML-based voice emotion detection, and **OpenRouter** for AI chat. | Flutter, Firebase, Supabase, GenKit, Agora SDK, Teachable Machine, OpenRouter, Razorpay API |
+| **CodeMaster** | Gamified coding quiz app with XP system, weekly challenges, and leaderboard for motivation. | React, Firebase, Tailwind CSS |
+| **AI Chatbot System** | Context-aware chatbot trained for student Q&A and daily productivity support. | Flutter, Supabase, OpenAI API |
+| **CampusConnect** | College networking web app connecting students to internships, hackathons, and project collaborations. | React, Node.js, Supabase |
+| **SQL Editor Web App** | Online SQL compiler for writing, executing, and testing queries live in-browser. | React, SQL.js, Firebase |
+| **Fitness Tracker+** | Gamified fitness app tracking routines, streaks, and progress analytics. | Flutter, Firebase, Cloud Functions |
+
+---
+
+## 🧰 Tech Stack  
+
+**Mobile:** Flutter, Dart  
+**Frontend:** React, JavaScript, Tailwind CSS  
+**Backend:** Supabase, Firebase, SQL  
+**AI & SDKs:** GenKit, Agora SDK, Google Teachable Machine, OpenRouter  
+**Tools:** Git, GitHub, VS Code, Postman  
+**Low/No-Code:** Bubble.io, Webflow  
+**Currently Exploring:** Next.js, Cloud Functions  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Shaswat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syntax--error002&show_icons=true&theme=transparent)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax--error002&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Syntax-error002&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Syntax-error002&theme=transparent&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-error002&layout=compact&theme=transparent)
 
 ---
 
-## 🧩 Tech Stack  
+## 🏆 Highlights  
 
-**Frontend:** React, Tailwind CSS, HTML5, CSS3, JavaScript  
-**Backend:** Node.js, Express.js, MongoDB, MySQL  
-**Tools & Cloud:** Git, GitHub, Netlify, Render, VS Code, Postman  
-**Extras:** REST API Design, SEO Optimization, UI/UX Design  
-
----
-
-## 🌱 Currently Working On  
-
-- Scaling **Studify** into a full learning ecosystem  
-- Building **personalized AI tools** for developers and students  
-- Exploring **Next.js** and **TypeScript**  
+- 🚀 Built **AI-powered mobile and web apps** with real-time features  
+- 🧠 Designed **Supabase + Firebase** hybrid architecture for scalability  
+- 🗣️ Implemented **Agora SDK** for live tutoring and voice/video calls  
+- 🧩 Integrated **ML-based emotion detection** using Teachable Machine  
+- ⚡ Combined **OpenRouter APIs** with custom AI agents for interactive learning  
+- 💬 Collaborated across frontend, backend, and AI integration layers  
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect  
 
-- **Portfolio:** [Coming Soon](#)  
 - **LinkedIn:** [linkedin.com/in/your-profile](#)  
 - **Email:** your@email.com  
+- **Portfolio:** [Coming Soon](#)  
 
 ---
 
-> “Good code speaks. Great code teaches.”  
+> “The goal isn’t to build faster — it’s to build smarter.”  
