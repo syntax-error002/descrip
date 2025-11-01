@@ -1,14 +1,4 @@
-# 👋 Hey, I'm Shaswat
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" title="GitHub"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/126595017/28746866-3f6b99d8-74a0-11e7-8c3a-6b8a2ab7e3a6.gif" alt="3D Coding" height="100"/>
@@ -16,14 +6,23 @@
 
 ## 💫 About Me
 
-I build ideas **fast** — with code, no-code, or whatever bridges the gap between idea and launch.  
-From **Flutter apps** and **React dashboards** to **Supabase backends** and **AI integrations**, I focus on making things that **work and wow**!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shaswat kureel
+=======================================================================================================================================
 
-- 🛠️ **Flutter, Dart, React, JavaScript, SQL, Supabase, Firebase**
-- 🔐 **Auth systems, real-time databases, AI-driven features**
-- ⚡ **Bubble.io** & low/no-code MVPs
-- 🌱 Learning **Next.js** & **Clean Architecture (Flutter)**
-- 🎯 Goal: **Scalable, human-centered tech that stands out**
+Turning caffeine and code into working miracles.
+------------------------------------------------
+
+I build what doesn’t exist yet sometimes with code, sometimes with pure stubbornness.
+
+From Flutter apps that feel alive to AI-driven tools that learn you, I don’t just chase trends — I reverse-engineer them.
+
+My repos aren’t portfolios. They’re experiments that worked.
+
+* 🌍  I'm based in Gujarat, India
+* 🖥️  See my portfolio at [Portfolio](http://shaswat-beta.vercel.app )
+* ✉️  You can contact me at [shaswat.developer@gmail.com](mailto:shaswat.developer@gmail.com)
+* 🚀  I'm currently working on [Studify](http://github.com/syntax-error002)
+* 👥  I'm looking to collaborate on Any web and app development projects
 
 ---
 
@@ -39,7 +38,15 @@ From **Flutter apps** and **React dashboards** to **Supabase backends** and **AI
 | ![](https://img.icons8.com/color/36/heart-with-pulse.png) **Fitness Tracker+** | Gamified fitness: routines, streaks, analytics. | Flutter, Firebase, Cloud Functions |
 
 ---
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/Syntax-error002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syntax-error002&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Syntax-error002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-error002&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Syntax-error002/Landing_page_for_freelance_guy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-error002&repo=Landing_page_for_freelance_guy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Syntax-error002/java_AI_chatBot-specially_designed_for_Coding_and-emotional_support" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-error002&repo=java_AI_chatBot-specially_designed_for_Coding_and-emotional_support&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -90,3 +97,4 @@ From **Flutter apps** and **React dashboards** to **Supabase backends** and **AI
   <br>
   <strong>“The goal isn’t to build faster — it’s to build smarter.”</strong>
 </div>
+](https://buymeacoffee.com/signup)](https://buymeacoffee.com/signup)
