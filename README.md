@@ -23,6 +23,15 @@ My repos aren’t portfolios. They’re experiments that worked.
 * 👥  I'm looking to collaborate on Any web and app development projects
 
 ---
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Syntax-error002&theme=algolia&margin-w=10&no-bg=true&no-frame=true)
+
+---
+
+### 💻 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Syntax-error002&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-error002&layout=compact&theme=tokyonight)
 
 ## 🚀 Featured Projects
 
@@ -36,11 +45,6 @@ My repos aren’t portfolios. They’re experiments that worked.
 | ![](https://img.icons8.com/color/36/heart-with-pulse.png) **Fitness Tracker+** | Gamified fitness: routines, streaks, analytics. | Flutter, Firebase, Cloud Functions |
 
 ---
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Syntax-error002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syntax-error002&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Syntax-error002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-error002&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
@@ -76,15 +80,7 @@ My repos aren’t portfolios. They’re experiments that worked.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syntax-error002&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syntax-error002&theme=transparent&hide_border=false" height="220"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-error002&layout=compact&theme=transparent" height="200"/>
-</div>
-
----
 
 ## 🏆 Career Highlights
 
