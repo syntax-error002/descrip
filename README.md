@@ -1,8 +1,5 @@
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/126595017/28746866-3f6b99d8-74a0-11e7-8c3a-6b8a2ab7e3a6.gif" alt="3D Coding" height="100"/>
-</div>
 
 ## 💫 About Me
 
