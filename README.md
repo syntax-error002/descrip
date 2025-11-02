@@ -48,8 +48,23 @@ My repos aren’t portfolios. They’re experiments that worked.
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,tailwind,supabase,firebase,sql,github,git,postman,webflow" />
+  <h2>🚀 My Tech Ecosystem</h2>
+  <p><i>From front-end finesse to backend flow</i></p>
+  
+  <!-- Frontend -->
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,typescript,tailwind" width="420" />
+
+  <!-- Backend -->
+  <h3>Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase" width="220" />
+
+  <!-- Tools -->
+  <h3>Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=github,git,postman,webflow,vscode,androidstudio,figma,vercel,netlify,cloudflare" width="600" />
+
 </div>
+
 
 **Mobile:** Flutter, Dart  
 **Frontend:** React, JavaScript, Tailwind CSS  
@@ -95,4 +110,3 @@ My repos aren’t portfolios. They’re experiments that worked.
   <br>
   <strong>“The goal isn’t to build faster — it’s to build smarter.”</strong>
 </div>
-](https://buymeacoffee.com/signup)](https://buymeacoffee.com/signup)
