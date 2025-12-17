@@ -31,7 +31,7 @@ I'm a passionate developer based in Gujarat, India, specializing in building ful
 - 🌱 Exploring Next.js and advanced cloud architectures
 - 👥 Open to collaborating on innovative web and mobile projects
 - 📫 Reach me at **shaswat.developer@gmail.com**
-- 🌍 Portfolio: **[shaswat-beta.vercel.app](http://shaswat-beta.vercel.app)**
+- 🌍 Portfolio: **[shaswat-beta.vercel.app](https://shaswatkureel.vercel.app/)**
 
 ---
 
