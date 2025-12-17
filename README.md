@@ -1,108 +1,160 @@
+<div align="center">
+  <img width="100%" alt="github-header-banner" src="https://github.com/user-attachments/assets/10972b7e-62c3-4734-add5-59a35b56e954" />
+</div>
 
-<img width="2189" height="593" alt="github-header-banner" src="https://github.com/user-attachments/assets/10972b7e-62c3-4734-add5-59a35b56e954" />
+<h1 align="center">
+  Hi there, I'm Shaswat Kureel 
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28px" alt="wave">
+</h1>
 
+<h3 align="center">Full-Stack Developer | Mobile & Web Application Architect | AI Enthusiast</h3>
 
-## 💫 About Me
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shaswat kureel
-=======================================================================================================================================
-
-Turning caffeine and code into working miracles.
-------------------------------------------------
-
-I build what doesn’t exist yet sometimes with code, sometimes with pure stubbornness.
-
-From Flutter apps that feel alive to AI-driven tools that learn you, I don’t just chase trends — I reverse-engineer them.
-
-My repos aren’t portfolios. They’re experiments that worked.
-
-* 🌍  I'm based in Gujarat, India
-* 🖥️  See my portfolio at [Portfolio](http://shaswat-beta.vercel.app )
-* ✉️  You can contact me at [shaswat.developer@gmail.com](mailto:shaswat.developer@gmail.com)
-* 🚀  I'm currently working on [Studify](http://github.com/syntax-error002)
-* 👥  I'm looking to collaborate on Any web and app development projects
-
----
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Syntax-error002&theme=algolia&margin-w=10&no-bg=true&no-frame=true)
+<p align="center">
+  <em>Transforming ideas into elegant, scalable solutions through code and innovation</em>
+</p>
 
 ---
 
-### 💻 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Syntax-error002&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-error002&layout=compact&theme=tokyonight)
+## 👨‍💻 About Me
+
+I'm a passionate developer based in Gujarat, India, specializing in building full-stack applications that combine modern design with robust functionality. My expertise spans mobile development with Flutter, web applications with React, and AI-powered solutions that push the boundaries of what's possible.
+
+**What I Do:**
+- 🔨 Architect and develop cross-platform mobile applications
+- 🌐 Build responsive, performant web applications
+- 🤖 Integrate AI/ML capabilities into real-world products
+- ⚡ Design scalable backend systems and APIs
+- 🎨 Create intuitive user experiences that delight users
+
+**Current Status:**
+- 🚀 Working on **Studify** - An AI-powered EdTech platform
+- 🌱 Exploring Next.js and advanced cloud architectures
+- 👥 Open to collaborating on innovative web and mobile projects
+- 📫 Reach me at **shaswat.developer@gmail.com**
+- 🌍 Portfolio: **[shaswat-beta.vercel.app](http://shaswat-beta.vercel.app)**
+
+---
+
+## 🛠️ Technical Expertise
+
+### Languages & Frameworks
+```
+Frontend          Mobile            Backend & Database
+├─ React          ├─ Flutter        ├─ Supabase
+├─ JavaScript     └─ Dart           ├─ Firebase
+├─ TypeScript                       └─ SQL
+└─ Tailwind CSS                     
+```
+
+### Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,typescript,tailwind,supabase,firebase,github,git,vscode,androidstudio,figma,postman,vercel,netlify,cloudflare" />
+</p>
+
+**Additional Skills:**
+- **AI & ML:** GenKit, OpenRouter API, Google Teachable Machine
+- **Real-time Communication:** Agora SDK
+- **Development Tools:** VS Code, Android Studio, Postman, Git
+- **Design Tools:** Figma
+- **Deployment:** Vercel, Netlify, Cloudflare
+- **Low-Code Platforms:** Bubble.io, Webflow
+
+---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| ![](https://img.icons8.com/color/36/source-code.png) **Studify** | Edtech app: 24/7 tutors, AI doubt solver, gamified progress. | Flutter, Supabase, GenKit, Agora SDK |
-| ![](https://img.icons8.com/fluency/36/trophy.png) **CodeMaster** | Coding quiz app: XP system, challenges, leaderboard. | React, Firebase, Tailwind CSS |
-| ![](https://img.icons8.com/color/36/chat--v2.png) **AI Chatbot System** | Context-aware chatbot for student Q&A. | Flutter, Supabase, OpenAI API |
-| ![](https://img.icons8.com/color/36/networking.png) **CampusConnect** | College networking: internships, hackathons, collabs. | React, Node.js, Supabase |
-| ![](https://img.icons8.com/color/36/sql.png) **SQL Editor Web App** | Online SQL compiler: execute & test live. | React, SQL.js, Firebase |
-| ![](https://img.icons8.com/color/36/heart-with-pulse.png) **Fitness Tracker+** | Gamified fitness: routines, streaks, analytics. | Flutter, Firebase, Cloud Functions |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Technology Stack</th>
+  </tr>
+  <tr>
+    <td><strong>Studify</strong></td>
+    <td>Comprehensive EdTech platform featuring 24/7 AI tutoring, intelligent doubt solver, and gamified learning progress tracking</td>
+    <td>Flutter, Supabase, GenKit, Agora SDK</td>
+  </tr>
+  <tr>
+    <td><strong>CodeMaster</strong></td>
+    <td>Interactive coding quiz application with XP progression system, competitive challenges, and real-time leaderboards</td>
+    <td>React, Firebase, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>AI Chatbot System</strong></td>
+    <td>Context-aware conversational AI designed for educational Q&A with natural language understanding</td>
+    <td>Flutter, Supabase, OpenAI API</td>
+  </tr>
+  <tr>
+    <td><strong>CampusConnect</strong></td>
+    <td>Professional networking platform connecting students with internships, hackathons, and collaboration opportunities</td>
+    <td>React, Node.js, Supabase</td>
+  </tr>
+  <tr>
+    <td><strong>SQL Editor Web App</strong></td>
+    <td>Browser-based SQL compiler and query executor for learning and testing database operations</td>
+    <td>React, SQL.js, Firebase</td>
+  </tr>
+  <tr>
+    <td><strong>Fitness Tracker+</strong></td>
+    <td>Gamified fitness application featuring personalized routines, streak tracking, and comprehensive analytics</td>
+    <td>Flutter, Firebase, Cloud Functions</td>
+  </tr>
+</table>
 
 ---
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Syntax-error002/Landing_page_for_freelance_guy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-error002&repo=Landing_page_for_freelance_guy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Syntax-error002/java_AI_chatBot-specially_designed_for_Coding_and-emotional_support" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-error002&repo=java_AI_chatBot-specially_designed_for_Coding_and-emotional_support&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-## 🧰 Tech Stack
+## 📊 GitHub Statistics
 
 <div align="center">
-  <h2>🚀 My Tech Ecosystem</h2>
-  <p><i>From front-end finesse to backend flow</i></p>
-  
-  <!-- Frontend -->
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,typescript,tailwind" width="420" />
-
-  <!-- Backend -->
-  <h3>Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase" width="220" />
-
-  <!-- Tools -->
-  <h3>Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,postman,webflow,vscode,androidstudio,figma,vercel,netlify,cloudflare" width="600" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syntax-error002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-error002&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-
-**Mobile:** Flutter, Dart  
-**Frontend:** React, JavaScript, Tailwind CSS  
-**Backend:** Supabase, Firebase, SQL  
-**AI & SDKs:** GenKit, Agora SDK, Google Teachable Machine, OpenRouter  
-**Tools:** Git, GitHub, VS Code, Postman  
-**Low/No-Code:** Bubble.io, Webflow  
-**Exploring:** Next.js, Cloud Functions  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Syntax-error002&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
 ---
 
+## 💼 Professional Highlights
 
+✅ **AI Integration Specialist** - Developed and deployed AI-powered features in production mobile and web applications
 
-## 🏆 Career Highlights
+✅ **System Architecture** - Designed hybrid Supabase + Firebase architectures handling thousands of concurrent users
 
-- 🤖 Built **AI-powered mobile & web apps** with real-time features
-- 💾 Designed **Supabase + Firebase hybrid architecture** for scalability
-- 📞 Implemented **Agora SDK** for live tutoring and voice/video calls
-- 🧠 Integrated **ML-based emotion detection** via Teachable Machine
-- 💡 Combined **OpenRouter APIs** with custom AI agents for interactive learning
-- 👨‍💻 Collaborated across frontend, backend, and AI integration layers
+✅ **Real-time Solutions** - Implemented Agora SDK for live video tutoring and peer-to-peer communication
+
+✅ **Machine Learning** - Integrated ML-based emotion detection and behavior analysis systems
+
+✅ **API Development** - Built RESTful APIs and integrated third-party services including OpenRouter for AI capabilities
+
+✅ **Cross-functional Collaboration** - Worked across frontend, backend, and AI integration layers to deliver cohesive products
 
 ---
 
-## 📫 Connect
+## 📫 Let's Connect
 
-[![LinkedIn](https://img.icons8.com/color/36/linkedin.png)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shaswatdev))
-[![Email](https://img.icons8.com/color/36/email.png)](mailto:shaswat.developer@gmail.com)
-[![Portfolio](https://img.icons8.com/color/36/domain.png)](https://shaswat-developer.vercel.app/) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaswatdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shaswat.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://shaswat-beta.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://img.icons8.com/color/72/light-on--v1.png" alt="build smarter" />
+  <img src="https://komarev.com/ghpvc/?username=Syntax-error002&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
   <br>
-  <strong>“The goal isn’t to build faster — it’s to build smarter.”</strong>
+  <em>"The best way to predict the future is to build it."</em>
+  <br><br>
+  ⭐️ From <a href="https://github.com/Syntax-error002">Syntax-error002</a>
 </div>
