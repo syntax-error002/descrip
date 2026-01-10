@@ -134,11 +134,11 @@ Frontend          Mobile            Backend & Database
 ## 📝 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [Building Scalable Flutter Apps: Architecture Patterns That Work](https://dev.to)
-- 🤖 [Integrating AI into Mobile Apps: A Practical Guide](https://dev.to)
-- 🎨 [Modern UI/UX Trends in Mobile Development 2024](https://dev.to)
-- ⚡ [Firebase vs Supabase: Choosing the Right Backend](https://dev.to)
-- 🚀 [From Idea to App Store: My EdTech Journey](https://dev.to)
+- 🔥 [Building Scalable Flutter Apps: Architecture Patterns That Work](#)
+- 🤖 [Integrating AI into Mobile Apps: A Practical Guide](#)
+- 🎨 [Modern UI/UX Trends in Mobile Development 2024](#)
+- ⚡ [Firebase vs Supabase: Choosing the Right Backend](#)
+- 🚀 [From Idea to App Store: My EdTech Journey](#)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog...](https://shaswatkureel.vercel.app/blog)
@@ -205,6 +205,7 @@ I believe in giving back to the community that has taught me so much!
 
 <!--START_SECTION:waka-->
 ```text
+Weekly Coding Stats (Example):
 Flutter      12 hrs 30 mins  ████████████░░░░░   48.5%
 JavaScript   6 hrs 15 mins   ██████░░░░░░░░░░░   24.2%
 Dart         4 hrs 20 mins   ████░░░░░░░░░░░░░   16.8%
