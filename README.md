@@ -7,16 +7,20 @@
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28px" alt="wave">
 </h1>
 
-<h3 align="center">Full-Stack Developer | Mobile & Web Application Architect | AI Enthusiast</h3>
+<h3 align="center">3rd Year CS Undergrad | Full-Stack Developer in the Making | Mobile & AI Enthusiast</h3>
 
 <p align="center">
-  <em>Transforming ideas into elegant, scalable solutions through code and innovation</em>
+  <em>Turning classroom concepts into real-world projects, one commit at a time</em>
 </p>
 
+<div align="center">
+  <img src="./assets/profile-ascii.png" width="380" alt="ascii art portrait" />
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Year-3rd%20Year%20B.Tech%20CSE-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Lives-Gujarat%2C%20India-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=flat-square" />
 </p>
 
 <p align="center">
@@ -29,66 +33,63 @@
 ## 🖥️ System Fetch
 
 ```
-                    ┌─┐               shaswat@github
-        ▄▄▄▄▄▄▄     └─┘               -----------------
-      ▄█████████▄                     OS: ....................... Windows 11 / Linux
-     ███▀▀   ▀▀███                    Host: ..................... GitHub.com
-    ███  ● ● ●  ███                   Kernel: .................... Full-Stack Engine 5.0
-    ███    ▼    ███                   IDE: ........................ VS Code, Android Studio
-     ███▄     ▄███                    Uptime: ..................... 5+ Years Coding
-      ▀█████████▀
-       ▀▀▀▀▀▀▀▀▀
+                                       shaswat@github
+                                       -----------------
+                                       Degree: .................... B.Tech, Computer Science (2027)
+                                       Year: ...................... 3rd Year
+                                       OS: ........................ Windows 11 / Linux
+                                       IDE: ....................... VS Code, Android Studio
+
                                        Languages.Programming: ..... JavaScript, TypeScript, Dart, SQL
                                        Languages.Frontend: ........ React, Tailwind CSS
                                        Languages.Mobile: .......... Flutter
                                        Languages.Backend: ......... Supabase, Firebase
 
-                                       Hobbies.Building: .......... Studify (AI EdTech Platform)
-                                       Hobbies.Learning: .......... Next.js, LLMs, Cloud (AWS/GCP)
-                                       Hobbies.Other: .............. Indie Games, UI/UX, Lo-fi beats
+                                       Currently.Learning: ........ DSA, System Design, DBMS, OS
+                                       Currently.Building: ........ Studify (AI EdTech project)
+                                       Looking.For: ............... SDE / Full-Stack Internships
 
                                        Contact.Email: .............. shaswat.developer@gmail.com
                                        Contact.LinkedIn: ........... shaswatdev
-                                       Contact.Twitter: ............ shaswatkureel
                                        Contact.Portfolio: .......... shaswatkureel.vercel.app
 
                                        GitHub Stats
                                        -----------------
-                                       Repos: ............ 50+  |  Stars: ......... 500+
-                                       PRs: ............... 30+  |  Issues: ......... 50+
-                                       Location: .......... Gujarat, India
+                                       Repos: ............ 25+  |  Stars: ......... 50+
+                                       Hackathons: ........ 3+   |  Projects: ...... 10+
 ```
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer based in Gujarat, India, specializing in building full-stack applications that combine modern design with robust functionality. My expertise spans mobile development with Flutter, web applications with React, and AI-powered solutions that push the boundaries of what's possible.
+I'm a 3rd-year Computer Science undergrad from Gujarat, India, learning to build full-stack applications that combine solid CS fundamentals with real-world product thinking. Alongside coursework, I build mobile apps with Flutter, web apps with React, and small AI-powered side projects to keep learning by shipping.
 
 **What I Do:**
-- 🔨 Architect and develop cross-platform mobile applications
-- 🌐 Build responsive, performant web applications
-- 🤖 Integrate AI/ML capabilities into real-world products
-- ⚡ Design scalable backend systems and APIs
-- 🎨 Create intuitive user experiences that delight users
+- 🔨 Build cross-platform mobile apps as personal & college projects
+- 🌐 Build responsive web apps with React
+- 🤖 Experiment with AI/ML in side projects
+- 📚 Practice DSA daily on LeetCode/Codeforces
+- 🎨 Try to make things people actually enjoy using
 
 **Current Status:**
-- 🚀 Working on **Studify** - An AI-powered EdTech platform
-- 🌱 Exploring Next.js and advanced cloud architectures
-- 👥 Open to collaborating on innovative web and mobile projects
+- 🎓 3rd year, pursuing B.Tech in Computer Science
+- 🚀 Building **Studify** - an AI-powered EdTech project
+- 🌱 Learning system design fundamentals and advanced DSA
+- 👥 Open to **SDE/Full-Stack internship** opportunities
 - 📫 Reach me at **shaswat.developer@gmail.com**
-- 🌍 Portfolio: **[shaswat-beta.vercel.app](https://shaswatkureel.vercel.app/)**
+- 🌍 Portfolio: **[shaswatkureel.vercel.app](https://shaswatkureel.vercel.app/)**
 
 **What I'm Currently Learning:**
-- 🔥 Advanced Next.js patterns and server components
-- ☁️ Cloud architecture with AWS and GCP
-- 🧠 Large Language Models (LLMs) and prompt engineering
-- 📱 Advanced Flutter animations and custom widgets
-- 🔐 OAuth 2.0 and advanced authentication strategies
+- 🧮 Data Structures & Algorithms (DSA)
+- 🏗️ System Design basics
+- ☁️ Cloud fundamentals - AWS & GCP
+- 🧠 LLMs and prompt engineering
+- 📱 Advanced Flutter animations
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Tech I've Learned & Built With
 
 ### Languages & Frameworks
 ```
@@ -104,98 +105,74 @@ Frontend          Mobile            Backend & Database
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,typescript,tailwind,supabase,firebase,github,git,vscode,androidstudio,figma,postman,vercel,netlify,cloudflare" />
 </p>
 
-**Additional Skills:**
+**Also Comfortable With:**
 - **AI & ML:** GenKit, OpenRouter API, Google Teachable Machine
-- **Real-time Communication:** Agora SDK
-- **Development Tools:** VS Code, Android Studio, Postman, Git
-- **Design Tools:** Figma
+- **Real-time:** Agora SDK
+- **Dev Tools:** VS Code, Android Studio, Postman, Git
+- **Design:** Figma
 - **Deployment:** Vercel, Netlify, Cloudflare
-- **Low-Code Platforms:** Bubble.io, Webflow
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects I've Built
 
-### 📱 Mobile & AI Applications
+### 📱 Mobile & AI
 <table>
   <tr>
     <th>Project</th>
     <th>Description</th>
-    <th>Technology Stack</th>
+    <th>Tech Stack</th>
   </tr>
   <tr>
     <td><strong>Studify</strong></td>
-    <td>Comprehensive EdTech platform featuring 24/7 AI tutoring, intelligent doubt solver, and gamified learning progress tracking</td>
+    <td>EdTech app with 24/7 AI tutoring, doubt solver, and gamified progress tracking</td>
     <td>Flutter, Supabase, GenKit, Agora SDK</td>
   </tr>
   <tr>
     <td><strong>AI Chatbot System</strong></td>
-    <td>Context-aware conversational AI designed for educational Q&A with natural language understanding</td>
+    <td>Context-aware conversational AI built for educational Q&A</td>
     <td>Flutter, Supabase, OpenAI API</td>
   </tr>
   <tr>
     <td><strong>Fitness Tracker+</strong></td>
-    <td>Gamified fitness application featuring personalized routines, streak tracking, and comprehensive analytics</td>
+    <td>Gamified fitness app with routines, streaks, and analytics</td>
     <td>Flutter, Firebase, Cloud Functions</td>
   </tr>
 </table>
 
-### 🌐 Web Applications
+### 🌐 Web Apps
 <table>
   <tr>
     <th>Project</th>
     <th>Description</th>
-    <th>Technology Stack</th>
+    <th>Tech Stack</th>
   </tr>
   <tr>
     <td><strong>CodeMaster</strong></td>
-    <td>Interactive coding quiz application with XP progression system, competitive challenges, and real-time leaderboards</td>
+    <td>Coding quiz app with XP progression and real-time leaderboards</td>
     <td>React, Firebase, Tailwind CSS</td>
   </tr>
   <tr>
     <td><strong>CampusConnect</strong></td>
-    <td>Professional networking platform connecting students with internships, hackathons, and collaboration opportunities</td>
+    <td>Campus networking platform for internships & hackathon teams</td>
     <td>React, Node.js, Supabase</td>
   </tr>
   <tr>
     <td><strong>SQL Editor Web App</strong></td>
-    <td>Browser-based SQL compiler and query executor for learning and testing database operations</td>
+    <td>Browser-based SQL compiler built to practice DBMS concepts</td>
     <td>React, SQL.js, Firebase</td>
   </tr>
 </table>
 
 ---
 
-## 📝 Latest Blog Posts & Articles
+## 🤝 Open Source & Community
 
-<!-- BLOG-POST-LIST:START -->
-- 🔥 [Building Scalable Flutter Apps: Architecture Patterns That Work](#)
-- 🤖 [Integrating AI into Mobile Apps: A Practical Guide](#)
-- 🎨 [Modern UI/UX Trends in Mobile Development 2024](#)
-- ⚡ [Firebase vs Supabase: Choosing the Right Backend](#)
-- 🚀 [From Idea to App Store: My EdTech Journey](#)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Read more articles on my blog...](https://shaswatkureel.vercel.app/blog)
-
----
-
-## 🤝 Open Source Contributions
-
-I believe in giving back to the community that has taught me so much!
-
-**Active Contributions:**
-- 🔧 **Flutter Packages** - Contributing bug fixes and feature enhancements
+- 🔧 **Flutter Packages** - Contributing small bug fixes and enhancements
 - 📚 **Documentation** - Improving docs for React and Flutter libraries
-- 🐛 **Issue Triage** - Helping maintainers by reproducing and documenting bugs
-- 💡 **Code Reviews** - Providing constructive feedback on pull requests
-- 🌟 **Starter Templates** - Creating boilerplates for common development patterns
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pull%20Requests-30%2B-success?style=for-the-badge" alt="Pull Requests" />
-  <img src="https://img.shields.io/badge/Issues%20Opened-50%2B-informational?style=for-the-badge" alt="Issues" />
-  <img src="https://img.shields.io/badge/Repositories%20Starred-500%2B-yellow?style=for-the-badge" alt="Stars" />
-</p>
+- 🐛 **Issue Triage** - Helping maintainers reproduce and document bugs
+- 💡 **Code Reviews** - Reviewing peers' PRs in college & club projects
+- 🌟 **Starter Templates** - Sharing boilerplates for common patterns
 
 ---
 
@@ -220,19 +197,19 @@ I believe in giving back to the community that has taught me so much!
 
 ---
 
-## 💼 Professional Highlights
+## 🎓 Academic & Project Highlights
 
-✅ **AI Integration Specialist** - Developed and deployed AI-powered features in production mobile and web applications
+✅ **AI Integration** - Built AI-powered features into personal and college projects
 
-✅ **System Architecture** - Designed hybrid Supabase + Firebase architectures handling thousands of concurrent users
+✅ **App Architecture** - Designed Supabase + Firebase backends for course & side projects
 
-✅ **Real-time Solutions** - Implemented Agora SDK for live video tutoring and peer-to-peer communication
+✅ **Real-time Features** - Used Agora SDK for live video in a college capstone project
 
-✅ **Machine Learning** - Integrated ML-based emotion detection and behavior analysis systems
+✅ **Machine Learning** - Built basic ML-based emotion detection as a coursework project
 
-✅ **API Development** - Built RESTful APIs and integrated third-party services including OpenRouter for AI capabilities
+✅ **API Development** - Built REST APIs and integrated third-party services like OpenRouter
 
-✅ **Cross-functional Collaboration** - Worked across frontend, backend, and AI integration layers to deliver cohesive products
+✅ **Team Projects** - Collaborated in hackathon and college team projects across the stack
 
 ---
 
@@ -249,67 +226,37 @@ Other        0 hrs 30 mins   ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-1,200%20hrs-blue?style=flat-square" alt="Code Time" />
-  <img src="https://img.shields.io/badge/Projects-50%2B-brightgreen?style=flat-square" alt="Projects" />
-  <img src="https://img.shields.io/badge/Languages-10%2B-orange?style=flat-square" alt="Languages" />
-</p>
-
 ---
 
-## 🎯 Development Philosophy
+## 🎯 How I Approach Building Things
 
 > "Code is not just about making things work—it's about crafting solutions that are elegant, maintainable, and scalable."
 
-**My Core Principles:**
-- **User-First Design:** Every line of code should serve the end user's needs
+- **User-First:** Every feature should serve the end user's actual need
 - **Clean Code:** Write code that reads like poetry and is self-documenting
-- **Continuous Learning:** Technology evolves daily, and so should we
-- **Test-Driven Development:** Quality is not an afterthought, it's built-in from the start
-- **Open Collaboration:** The best solutions emerge from diverse perspectives
+- **Keep Learning:** CS moves fast, and so should I
+- **Ship & Iterate:** Done beats perfect for a side project
+- **Learn in Public:** The best growth comes from sharing and getting feedback
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
-- 🥇 **Hackathon Winner** - Built award-winning EdTech solution in 36 hours
+- 🥇 **Hackathon Finalist** - Built an EdTech solution in 36 hours
 - 📜 **Google Cloud Essentials** - Completed cloud infrastructure training
-- 🎓 **Flutter Development Bootcamp** - Advanced mobile development certification
-- 💡 **100+ Projects Delivered** - Successfully deployed applications serving thousands of users
-- ⭐ **Open Source Contributor** - Active contributor to Flutter and React ecosystems
+- 🎓 **Flutter Development Bootcamp** - Advanced mobile dev certification
+- 💡 **10+ Projects Built** - Across coursework, hackathons, and personal time
+- ⭐ **Open Source Contributor** - Active in Flutter and React ecosystems
 
 ---
 
 ## 🌟 Beyond the Code
 
-When I'm not coding, you'll find me:
-- 📚 Reading tech blogs and staying updated with industry trends
+- 📚 Reading tech blogs and staying current with industry trends
 - 🎮 Building indie games as side projects
-- 🎨 Exploring UI/UX design principles and creating mockups
-- 🎵 Listening to lo-fi beats while debugging (it helps! 😄)
-- 🌱 Mentoring aspiring developers and sharing knowledge
-
-**Fun Facts:**
-- ☕ Powered by coffee and curiosity
-- 🌙 Night owl developer - best code is written after midnight
-- 🐛 Found a bug once that took 3 days to fix - turned out to be a missing semicolon
-- 🎯 Code optimization enthusiast - shaving milliseconds off response times is oddly satisfying
-
----
-
-## 💖 Support My Work
-
-If you find my projects helpful or interesting, consider supporting my work:
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shaswat" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
-</p>
-
-<p align="center">
-  <em>Your support helps me create more open-source projects and educational content! 🙏</em>
-</p>
+- 🎨 Exploring UI/UX design and creating mockups
+- 🎵 Lo-fi beats while debugging (it helps! 😄)
+- 🌱 Helping juniors get started with Flutter & React
 
 ---
 
@@ -334,7 +281,7 @@ If you find my projects helpful or interesting, consider supporting my work:
 </p>
 
 <p align="center">
-  <em>💬 Always happy to chat about tech, collaborate on projects, or discuss new opportunities!</em>
+  <em>💬 Always happy to talk projects, hackathons, or internship opportunities!</em>
 </p>
 
 ---
@@ -358,8 +305,8 @@ If you find my projects helpful or interesting, consider supporting my work:
   <em>- Alan Kay</em>
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Architect;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=3rd+Year+CS+Student;Aspiring+SDE;Mobile+%26+Web+Developer;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   
   <br><br>
-  ⭐️ From <a href="https://github.com/Syntax-error002">Syntax-error002</a> - Let's build something amazing together!
+  ⭐️ From <a href="https://github.com/Syntax-error002">Syntax-error002</a> - let's build something together!
 </div>
