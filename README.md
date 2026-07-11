@@ -26,6 +26,41 @@
 
 ---
 
+## 🖥️ System Fetch
+
+```
+                    ┌─┐               shaswat@github
+        ▄▄▄▄▄▄▄     └─┘               -----------------
+      ▄█████████▄                     OS: ....................... Windows 11 / Linux
+     ███▀▀   ▀▀███                    Host: ..................... GitHub.com
+    ███  ● ● ●  ███                   Kernel: .................... Full-Stack Engine 5.0
+    ███    ▼    ███                   IDE: ........................ VS Code, Android Studio
+     ███▄     ▄███                    Uptime: ..................... 5+ Years Coding
+      ▀█████████▀
+       ▀▀▀▀▀▀▀▀▀
+                                       Languages.Programming: ..... JavaScript, TypeScript, Dart, SQL
+                                       Languages.Frontend: ........ React, Tailwind CSS
+                                       Languages.Mobile: .......... Flutter
+                                       Languages.Backend: ......... Supabase, Firebase
+
+                                       Hobbies.Building: .......... Studify (AI EdTech Platform)
+                                       Hobbies.Learning: .......... Next.js, LLMs, Cloud (AWS/GCP)
+                                       Hobbies.Other: .............. Indie Games, UI/UX, Lo-fi beats
+
+                                       Contact.Email: .............. shaswat.developer@gmail.com
+                                       Contact.LinkedIn: ........... shaswatdev
+                                       Contact.Twitter: ............ shaswatkureel
+                                       Contact.Portfolio: .......... shaswatkureel.vercel.app
+
+                                       GitHub Stats
+                                       -----------------
+                                       Repos: ............ 50+  |  Stars: ......... 500+
+                                       PRs: ............... 30+  |  Issues: ......... 50+
+                                       Location: .......... Gujarat, India
+```
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a passionate developer based in Gujarat, India, specializing in building full-stack applications that combine modern design with robust functionality. My expertise spans mobile development with Flutter, web applications with React, and AI-powered solutions that push the boundaries of what's possible.
